@@ -10,7 +10,7 @@ Access the instructions at : https://www.wechall.net/challenge/warchall/begins/i
 ssh yourusername@warchall.net -p 19198
 ```
 ### Choose the level you want to go to:
-* [Welcome to Warchall](Warchall00.md)
+* [Welcome to Warchall](Welcome.md)
 * [Level 1](Warchall01.md)
 * [Level 2](Warchall02.md)
 * [Level 3](Warchall03.md)
